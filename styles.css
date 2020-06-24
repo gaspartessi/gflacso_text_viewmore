@@ -1,0 +1,24 @@
+.block.block_gflacso_text_viewmore .content{
+	padding-bottom: 24px;
+}
+
+.block_gflacso_text_viewmore .content .seemoreless{
+	float:right;
+}
+
+.block_gflacso_text_viewmore .content .no-overflow {
+	padding: 0 5px 0 5px;
+}
+
+.block_gflacso_text_viewmore .content {
+	height: auto;
+	max-width: 100%;
+}
+
+.block_gflacso_text_viewmore .content img {
+	border-radius:12px;
+	-mox-border-radius:12px;
+	-webkit-border-radius:12px;
+	height: auto;
+	max-width: 100%;
+}
